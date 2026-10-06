@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Sri Lanka Technology Campus", "short_name": "SLTC", "city": "Padukka" },
+  { "id": 2, "name": "University of Moratuwa", "short_name": "UOM", "city": "Moratuwa" },
+  { "id": 3, "name": "University of Colombo", "short_name": "UOC", "city": "Colombo" },
+  { "id": 4, "name": "University of Peradeniya", "short_name": "UOP", "city": "Kandy" },
+  { "id": 5, "name": "NSBM Green University", "short_name": "NSBM", "city": "Homagama" }
+]
